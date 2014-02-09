@@ -1,16 +1,18 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "OSX"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openFrameworks"
+            "Oculus Rift"
         ]
     },
     "themes": [
-        "insert themes"
+        "Technology",
+        "Vision",
+        "Meditation"
     ]
 }

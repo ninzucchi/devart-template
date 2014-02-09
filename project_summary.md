@@ -1,12 +1,33 @@
-# Project Title
-Insert the name of your project
+# Occlusion
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Nick Inzucchi, [Example Link](http://www.github.com/ninzucchi "ninzucchi")
+- Michaël Harboun
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+
+Occlusion explores the psychological sideeffects of pervasive technology through a series of immersive experiences :
+
+### Subtract
+     cause - Technology has introduced environmental noise, pulling our attention in multiple competing directions
+     ailment - Direct conversational intimacy is extremely difficult to achieve
+     solution - Slowly erase background distractions to focus full attention on the human connection
+     effect - Prolonged moments of intimate social connections
+     palette - Warm
+
+### Substitute
+     cause - Technology is designed to demand focus, projecting its users into isolated micro-realities 
+     ailment - Users’ behaviors, postures, facial expressions convey a sense of isolation to onlookers
+     solution - Blend faces toward a familiar average to erase differences and emphasize our fundamental sameness
+     effect - Empathic glimpses into the fundamental unity of all men
+     palette - Warm
+
+### Slow
+     cause - Technology has trained us to greedily await the future rewards of new updates and transmissions
+     ailment - An accelerated perception of time creates impatience and frenetic unfocus
+     solution - Slow time in moments of stillness to focus on the natural beauty of each passing frame 
+     effect - Impress a bias toward patient, detail-oriented contemplation
+     palette - Neutral
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -15,6 +36,7 @@ NOTE: If your project lives online you can add one or more links here. Make sure
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+
 ```
 function test() {
   console.log("Printing a test");
